@@ -1,4 +1,4 @@
-# Reuters
+# EastMoney
 Retrieve A-share information from EastMoney for Python
 
 ## Install
